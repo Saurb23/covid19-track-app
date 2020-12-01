@@ -1,6 +1,7 @@
 package com.saurb23.corona.model;
 
 public class LocationStats {
+//	Bean updated
 	
 	private String state;
     private String country;
